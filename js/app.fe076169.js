@@ -285,7 +285,7 @@
           la = {
             class:
               "flex items-end mr-[55px] 2xl:mr-0 w-[85px] sm:w-[175px] h-[126px] sm:h-[225px] 2xl:w-[200px] 2xl:h-[250px] rounded-md sm:rounded-2xl 2xl:rounded-3xl bg-center bg-cover bg-no-repeat scale-[0.6] sm:scale-100 overflow-hidden transition-all",
-            style: { "background-image": "url('./Robot3.jpg')", animation: "float 3s ease-in-out infinite" },
+            style: { "background-image": "url('img/Robot3.101b6189.png')", animation: "float 3s ease-in-out infinite" },
           },
           ra = { class: "hidden sm:block flex-1 bg-white h-[95px] px-4 glass" },
           ca = (0, i.Lk)("h4", { class: "text-xs font-bold text-[#161616] py-4 truncate max-w-[145px] 2xl:max-w-none" }, "Robot #3", -1),
@@ -311,7 +311,7 @@
           _a = {
             class:
               "flex items-end mr-[55px] 2xl:mr-0 w-[85px] sm:w-[175px] h-[126px] sm:h-[225px] 2xl:w-[200px] 2xl:h-[250px] rounded-md sm:rounded-2xl 2xl:rounded-3xl bg-center bg-cover bg-no-repeat scale-[0.6] sm:scale-100 overflow-hidden transition-all",
-            style: { "background-image": "url('./Robot1.jpg')", animation: "float 4s ease-in-out infinite" },
+            style: { "background-image": "url('img/Robot1.d54aee0d.png')", animation: "float 4s ease-in-out infinite" },
           },
           Ia = { class: "hidden sm:block flex-1 bg-white h-[95px] px-4 glass" },
           Ma = (0, i.Lk)("h4", { class: "text-xs font-bold text-[#161616] py-4 truncate max-w-[145px] 2xl:max-w-none" }, "Robot #1", -1),
@@ -323,7 +323,7 @@
           Ta = { class: "wrapper3d" },
           Pa = {
             class: "flex items-end mr-[55px] 2xl:mr-0 w-[85px] sm:w-[175px] h-[126px] sm:h-[225px] 2xl:w-[200px] 2xl:h-[250px] rounded-md sm:rounded-2xl 2xl:rounded-3xl bg-center bg-cover bg-no-repeat overflow-hidden transition-all",
-            style: { "background-image": "url('./Robot4.jpg')", animation: "floatdown 5s ease-in-out infinite" },
+            style: { "background-image": "url('img/Robot4.e27b6094.png')", animation: "floatdown 5s ease-in-out infinite" },
           },
           Ha = { class: "hidden sm:block flex-1 bg-white h-[95px] px-4 glass" },
           Na = (0, i.Lk)("h4", { class: "text-xs font-bold text-[#161616] py-4 truncate max-w-[145px] 2xl:max-w-none" }, "Robot #4", -1),
